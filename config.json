@@ -3,5 +3,6 @@
     "subTitle":"Blog description",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
-    "showPostSource":0
+    "showPostSource":0,
+    "needComment":0
 }
